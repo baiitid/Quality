@@ -1,0 +1,2 @@
+      在工程两个MainActivity,分别是MainActivity和MainActivity2，MainActivity是一个操作家居的界面，只要家居和手机在同一个网络下就可以远程操控，另一个MainActivity2是空气质量实时数据，只要输入相对应的城市名就可以得到
+得到相对应的空气质量数据。
